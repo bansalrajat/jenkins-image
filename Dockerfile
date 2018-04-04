@@ -1,4 +1,4 @@
-FROM myubuntu:latest
+FROM ubuntu:latest
 
 MAINTAINER RajatBansal
 
